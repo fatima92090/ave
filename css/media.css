@@ -755,24 +755,47 @@
 }
 
 /* Extra large devices (large desktops, 1500px and up) */
-@media (min-width: 1500px){
+@media (min-width: 1500px) and (max-width: 1799.98px){
 
 	.buttonadd button {
 		padding: 20px 63px;
 	}
-	/*.image-info h2 {
+	.image-info h2 {
 		font-size: 14px;
 		position: absolute;
-		top: 255px;
-		left: 160px;
+		top: 192px;
+		left: 115px;
 		text-transform: uppercase;
 	}
 
 	.image-info p {
 		position: absolute;
+		left: 6px;
+		top: 215px;
+		right: 6px;
+		font-size: 14px;
+	}
+	.image-info .social {
+		left: 135px;
+	}
+
+	.info-big .social {
+		left: 270px;
+	}
+	.info-big p {
 		left: 60px;
-		top: 280px;
+		top: 650px;
 		right: 60px;
-		font-size: 14px;*/
+	}
+	.info-big h2 {
+		font-size: 16px;
+		position: absolute;
+		top: 627px;
+		left: 270px;
+	}
+
+	/*lookbooks*/
+	.lookbook1 h1, .lookbook1 span{
+    font-size: 35px;
 	}
 }
