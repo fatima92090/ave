@@ -1,0 +1,778 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	/*banner-header*/
+	.cus-logo{
+		width: 85%;
+	}
+	.custom-nav ul li{
+		padding: 0 5px;
+	}
+	.custom-nav ul li a {
+		font-size: 12px;
+	}
+	.cust-input{
+		width: 40% !important;
+	}
+
+
+	.custom-nav .dropdown-menu-large {
+		min-width: 23rem!important;
+	}
+	.custom-nav .dropdown-menu-large .dropdown-header {
+		font-size: 13px;
+	}
+	.banner-button {
+		padding-top: 200px;
+		padding-bottom: 100px;
+	}
+	.banner-button button {
+		right: 100px;
+		top: 210px;
+		font-size: 12px;
+		padding: 7px 12px;
+	}
+	/*updateproducts*/
+	.updateproducts {
+		padding: 5px 0;
+	}
+	.m-l-r {
+		margin: 0 6px;
+	}
+	.update-info ul li {
+		font-size: 6px;
+		padding: 6px 0px;
+	}
+	/*image overlay*/
+
+	.p-box{
+		padding:  7px;
+	}
+	.image-info h1 {
+		font-size: 14px;
+	}
+	.image-info h2 {
+		font-size: 15px;
+		top: 470px;
+		left: 215px;
+	}
+	.image-info p {
+		font-size: 12px;
+		top: 495px;
+		left: 100px;
+		right: 100px;
+	}
+	.image-info .social {	
+		left: 210px;
+		bottom: 12px;
+	}
+	/*lookbook*/
+	.lookbook1 {
+		padding: 20px;
+	}
+	.lookbook-m-b{
+		margin-bottom: 15px;
+	}
+	.lookbook1 h1, .lookbook1 span {
+		font-size: 25px;
+	}
+	.lookbook1 p {
+		font-size: 14px
+	}
+	.lookbook1 button {
+		padding: 6px 20px;
+		font-size: 13px;
+	}
+	/*brand*/
+	.brand-content {
+		padding: 0 0px;
+	}
+
+	.brand-content h4 {
+		padding-bottom: 0;
+		padding-top: 8px;   
+	}
+	.brand-content h6 {
+		padding-bottom: 1px;
+		font-size: 12px;
+	}
+	.brand-content p {
+		line-height: unset;
+		font-size: 13px;
+	}
+	.brand-m-t-sign {
+		margin-top: 1px;
+	}
+	/*productview*/
+	.productview {
+		padding: 80px 0px;		
+		padding-bottom: 10px;
+	}
+	.productslide img {
+		width: 100%;
+	}
+	.brand-text p, .brand-text p span {
+		font-size: 25px;
+	}
+	.cust-icon-next {
+		right: 2%;
+	}
+	.productdetails h3 {
+		font-size: 22px;
+	}
+	.buttonadd button {
+		padding: 8px 21px;
+	}
+	/*localstore*/
+	.store-address {
+		padding: 20px 45px;
+	}
+	.local-m-b{
+		margin-bottom: 30px;
+	}
+	.london-add-share {
+		padding-top: 6px;
+		padding-bottom: 40px;
+
+	}
+	/*signregister*/
+	.vl {
+		display: none;
+	}
+	.textrightfooter{
+		text-align: center;
+	}
+	.award {
+		margin-bottom: 15px;
+	}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*banner-header*/
+	.cus-logo{
+		width: 85%;
+	}
+	.custom-nav ul li{
+		padding: 0 5px;
+	}
+	.custom-nav ul li a {
+		font-size: 12px;
+	}
+
+
+	.custom-nav .dropdown-menu-large {
+		min-width: 23rem!important;
+	}
+	.custom-nav .dropdown-menu-large .dropdown-header {
+		font-size: 13px;
+	}
+	.banner-button {
+		padding-top: 200px;
+		padding-bottom: 100px;
+	}
+	.banner-button button {
+		right: 100px;
+		top: 210px;
+		font-size: 12px;
+		padding: 7px 12px;
+	}
+	/*updateproducts*/
+	.updateproducts {
+		padding: 30px 0;
+	}
+	.m-l-r {
+		margin: 0 25px;
+	}
+	.update-info ul li {
+		font-size: 10px;
+		padding: 10px 0px;
+	}
+	/*image overlay*/
+
+	.image-info h1 {
+		font-size: 14px;
+	}
+	.image-info h2 {
+		font-size: 11px;
+		top: 247px;
+		left: 120px;
+	}
+	.image-info p {
+		font-size: 10px;
+		top: 263px;
+		left: 20px;
+		right: 20px;
+	}
+	.image-info .social {	
+		left: 128px;
+		bottom: 1px;
+	}
+	/*lookbook*/
+	.lookbook-m-b{
+		margin-bottom: 15px;
+	}
+	/*brand*/
+	.brand-content {
+		padding: 0 0px;
+	}
+
+	.brand-content h4 {
+		padding-bottom: 0;
+		padding-top: 8px;   
+	}
+	.brand-content h6 {
+		padding-bottom: 1px;
+		font-size: 12px;
+	}
+	.brand-content p {
+		line-height: unset;
+		font-size: 13px;
+	}
+	.brand-m-t-sign {
+		margin-top: 1px;
+	}
+	/*productview*/
+	.productview {
+		padding: 80px 0px;
+	}
+	.productslide img {
+		width: 100%;
+	}
+	.brand-text p, .brand-text p span {
+		font-size: 25px;
+	}
+	.cust-icon-next {
+		right: 2%;
+	}
+	.productdetails h3 {
+		font-size: 22px;
+	}
+	.buttonadd button {
+		padding: 8px 69px;
+	}
+	/*localstore*/
+	.store-address {
+		padding: 20px 85px;
+	}
+	.local-m-b{
+		margin-bottom: 30px;
+	}
+	.london-add-share {
+		padding-top: 10px;
+		padding-bottom: 40px;
+	}
+	/*signregister*/
+	.vl {
+		display: none;
+	}
+	.award {
+		margin-bottom: 15px;
+	}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/*banner-header*/
+	.cus-logo{
+		width: 85%;
+	}
+	.custom-nav ul li{
+		padding: 0 5px;
+	}
+	.custom-nav ul li a {
+		font-size: 12px;
+	}
+
+
+	.custom-nav .dropdown-menu-large {
+		min-width: 23rem!important;
+	}
+	.custom-nav .dropdown-menu-large .dropdown-header {
+		font-size: 13px;
+	}
+
+	/*banner*/
+
+	.banner-button {
+		padding-top: 200px;
+		padding-bottom: 100px;
+	}
+	.banner-button button {
+		right: 100px;
+		top: 210px;
+		font-size: 12px;
+		padding: 7px 12px;
+	}
+	/*updateproducts*/
+	.updateproducts {
+		padding: 30px 0;
+	}
+	.m-l-r {
+		margin: 0 35px;
+	}
+	.update-info ul li {
+		font-size: 10px;
+		padding: 10px 0px;
+	}
+	/*image overlay*/
+
+	.image-info h1 {
+		font-size: 14px;
+	}
+	.image-info h2 {
+		font-size: 10px;
+		top: 253px;
+		left: 112px;
+	}
+	.image-info p {
+		font-size: 8px;
+		top: 270px;
+		left: 20px;
+		right: 20px;
+	}
+	.image-info .social {	
+		left: 123px;
+		bottom: 8px;
+	}
+	.image-info .social li a {
+		width: 25px;
+		height: 25px;
+		line-height: 27px;   
+		border-radius: 19px;   
+		font-size: 11px;
+	}
+
+	/*info-big*/
+
+	.info-big h1{		
+		top: 12px;
+		left: 10px;
+	}
+	.info-big h2{	
+		top: 145px;
+		left: 115px;
+	}
+
+	.info-big p{
+		left: 50px;
+		top: 161px;
+		right: 50px;
+	}
+	.info-big .social{
+		left: 130px;
+		bottom: 0px;
+	}
+	/*lookbook*/
+	.lookbook-m-b{
+		margin-bottom: 15px;
+	}
+	/*brand*/
+	.brand-content {
+		padding: 0 0px;
+	}
+
+	.brand-content h4 {
+		padding-bottom: 0;
+		padding-top: 8px;   
+	}
+	.brand-content h6 {
+		padding-bottom: 1px;
+		font-size: 12px;
+	}
+	.brand-content p {
+		line-height: unset;
+		font-size: 13px;
+	}
+	.brand-m-t-sign {
+		margin-top: 1px;
+	}
+
+	/*productview*/
+	.productview {
+		padding: 80px 0px;
+	}
+	.productslide img {
+		width: 100%;
+	}
+	.brand-text p, .brand-text p span {
+		font-size: 25px;
+	}
+	.cust-icon-next {
+		right: 2%;
+	}
+	.productdetails h3 {
+		font-size: 22px;
+	}
+	.buttonadd button {
+		padding: 8px 70px;
+	}
+	/*localstore*/
+	.store-address {
+		padding: 20px 85px;
+	}
+	.local-m-b{
+		margin-bottom: 30px;
+	}
+
+	/*mapadd*/
+
+	.london-add-share {
+		padding-top: 15px;
+	}
+
+	/*signregister*/
+	#signin button, #Register button {
+		font-size: 13px;
+		padding: 14px 11px
+	}
+
+	.award{
+		margin-bottom: 20px;
+	}
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	/*banner-header*/
+	.cus-logo{
+		width: 85%;
+	}
+	.custom-nav ul li{
+		padding: 0 5px;
+	}
+	.custom-nav ul li a {
+		font-size: 12px;
+	}
+
+	.custom-nav .dropdown-menu-large {
+		min-width: 23rem!important;
+	}
+	.custom-nav .dropdown-menu-large .dropdown-header {
+		font-size: 13px;
+	}
+
+	.banner-button {
+		padding-top: 600px;
+		padding-bottom: 230px;
+	}
+
+
+	/*updateproducts*/
+	.updateproducts {
+		padding: 30px 0;
+	}
+	.m-l-r {
+		margin: 0 35px;
+	}
+	.update-info ul li{		
+		font-size: 11px;		
+		padding: 15px 6px;
+	}
+
+	/*image overlay*/
+
+	.image-info h1 {
+		font-size: 14px;
+	}
+	.image-info h2 {
+		font-size: 12px;    
+		top: 133px;
+		left: 65px;
+	}
+	.image-info p {
+		font-size: 9px;
+		top: 153px;
+		left: 6px;
+		right: 6px;
+	}
+	.image-info .social {	
+		left: 74px;
+		bottom: -10px;
+	}
+	.image-info .social li a {
+		width: 25px;
+		height: 25px;
+		line-height: 27px;   
+		border-radius: 19px;   
+		font-size: 11px;
+	}
+
+	/*info-big*/
+
+	.info-big h1{		
+		top: 12px;
+		left: 10px;
+	}
+	.info-big h2{	
+		top: 390px;
+		left: 180px;
+	}
+
+	.info-big p{
+		left: 90px;
+		top: 410px;
+		right: 90px;
+	}
+	.info-big .social{
+		left: 190px;
+		bottom: -5px;
+	}
+	/*lookbook*/
+	.m-r {
+		margin-right: 1px;
+	}
+	.lookbook1 {
+		padding: 8px;
+	}
+	.lookbook1 h1, .lookbook1 span {
+		font-size: 20px;		
+	}
+	.lookbook1 p {    
+		font-size: 11px;
+	}
+	.lookbook1 button {		
+		padding: 2px 15px;
+		font-size: 10px;
+	}
+	/*brand*/
+	.brand-content {
+		padding: 0 40px;
+	}
+
+	.brand-content h4 {
+		padding-bottom: 0;
+		padding-top: 8px;   
+	}
+	.brand-content h6 {
+		padding-bottom: 3px;
+		font-size: 13px;
+	}
+	.brand-content p {
+		line-height: unset;
+		font-size: 13px;
+	}
+	.brand-m-t-sign {
+		margin-top: 1px;
+	}
+	/*productview*/
+	.productview {
+		padding: 80px 0px;
+	}
+	.productslide img {
+		width: 100%;
+	}
+	.cust-icon-next {
+		right: 2%;
+	}
+	.productdetails {
+		padding: 0px;
+	}
+	.productdetails h3 {
+		padding-bottom: 5px;
+	}
+	.stars {
+		font-size: 12px;
+	}
+
+	.buttonadd button {
+		padding: 8px 30px;
+		font-size: 14px;
+	}
+	.Compare {
+		padding: 5px 0;
+		font-size: 30px;
+	}
+	.Compare img {
+		width: 35px;
+	}
+
+	/*localstore*/
+	.store-address {
+		padding: 20px 20px;
+	}
+
+	/*mapadd*/
+	.map-add-padd{
+		padding-top: 0px;
+	}
+	.london-add-share {
+		padding-top: 0px; 
+	}
+	.add-london p {
+		font-size: 13px;
+	}
+
+	/*signregister*/
+	#signin button, #Register button {
+		padding: 10px 25px;
+	}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
+
+@media (min-width: 1200px) and (max-width: 1499.98px){
+
+	.cus-logo{
+		width: 85%;
+	}
+	.custom-nav ul li{
+		padding: 16px 5px;
+	}
+	.custom-nav ul li a {
+		font-size: 12px;
+	}
+
+	.custom-nav .dropdown-menu-large {
+		min-width: 23rem!important;
+	}
+	.custom-nav .dropdown-menu-large .dropdown-header {
+		font-size: 13px;
+	}
+
+	.banner-button {
+		padding-top: 600px;
+		padding-bottom: 230px;
+	}
+
+
+	/*image overlay*/
+	.image-info h2 {		
+		top: 162px;
+		left: 85px;
+	}
+	.image-info p {		
+		left: 10px;
+		top: 180px;
+		right: 10px;
+		font-size: 12px;
+	}
+
+	.image-info .social {
+		left: 100px;
+		bottom: 0px;
+	}
+	/*info-big*/
+
+	.info-big h1{
+		position: absolute;
+		top: 12px;
+		left: 10px;
+	}
+	.info-big h2{
+		top: 476px;
+		left: 220px;		
+	}
+
+	.info-big p{
+		left: 115px;
+		top: 500px;
+		right: 115px;
+	}
+
+	.info-big .social{
+		left: 235px;
+		bottom: 10px;
+	}
+
+	/*lookbook*/
+	.lookbook1 {
+		padding: 25px;
+	}
+	.lookbook1 h1, .lookbook1 span {
+		font-size: 32px;
+	}
+	.lookbook1 p {
+		font-size: 12px;
+	}
+	.lookbook1 button {
+		padding: 5px 16px;
+		font-size: 14px;
+	}
+
+	/*brand*/
+	.brand-content {
+		padding: 0 150px;
+	}
+	.brand-content h4 {
+		padding-top: 28px;   
+	}
+	.brand-content h6 {
+		padding-bottom: 3px;
+		font-size: 13px;
+	}
+	.brand-content p {
+		line-height: 1.5;
+	}
+	.brand-m-t-sign {
+		margin-top: 20px;
+	}
+
+	/*productview*/
+	.productslide img {
+		width: 100%;
+	}
+	.cust-icon-next {
+		right: 2%;
+	}
+	.productdetails {
+		padding: 50px 6px;
+	}
+	.stars {
+		font-size: 10px;
+	}
+
+	.buttonadd button {
+		padding: 11px 45px;
+	}
+	.Compare {
+		padding: 5px 0;
+		font-size: 30px;
+	}
+	.Compare img {
+		width: 35px;
+	}
+	/*localstore*/
+	.store-address {
+		padding: 20px 120px;
+	}
+
+	/*mapadd*/
+	.map-add-padd{
+		padding-top: 0px;
+	}
+	.london-add-share {
+		padding-top: 0px; 
+	}
+	.add-london p {
+		font-size: 13px;
+	}
+}
+
+/* Extra large devices (large desktops, 1500px and up) */
+@media (min-width: 1500px){
+
+	.buttonadd button {
+		padding: 20px 63px;
+	}
+	/*.image-info h2 {
+		font-size: 14px;
+		position: absolute;
+		top: 255px;
+		left: 160px;
+		text-transform: uppercase;
+	}
+
+	.image-info p {
+		position: absolute;
+		left: 60px;
+		top: 280px;
+		right: 60px;
+		font-size: 14px;*/
+	}
+}
