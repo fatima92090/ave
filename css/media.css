@@ -52,19 +52,27 @@
 	}
 	.image-info h2 {
 		font-size: 15px;
-		top: 470px;
-		left: 215px;
+		top: 50%;
+		left: 32%;
 	}
 	.image-info p {
 		font-size: 12px;
-		top: 495px;
-		left: 100px;
-		right: 100px;
+		top: 56%;
+		left: 10%;
+		right: 10%;
 	}
 	.image-info .social {	
-		left: 210px;
-		bottom: 12px;
+		left: 0;
+    	bottom: 7%;
+   		right: 0;
 	}
+
+	.image-info .social li a{
+		width: 30px;
+		height: 30px;
+		line-height: 33px;
+		border-radius: 40px;
+	} 
 	/*lookbook*/
 	.lookbook1 {
 		padding: 20px;
@@ -194,19 +202,25 @@
 	}
 	.image-info h2 {
 		font-size: 11px;
-		top: 247px;
-		left: 120px;
+		top: 50%;
+		left: 32%;
 	}
 	.image-info p {
 		font-size: 10px;
-		top: 263px;
-		left: 20px;
-		right: 20px;
+		top: 55%;
+		left: 10%;
+		right: 10%;
 	}
 	.image-info .social {	
-		left: 128px;
+		left: 38%;
 		bottom: 1px;
 	}
+	.image-info .social li a{
+		width: 30px;
+		height: 30px;
+		line-height: 33px;
+		border-radius: 40px;
+	} 
 	/*lookbook*/
 	.lookbook-m-b{
 		margin-bottom: 15px;
@@ -796,6 +810,6 @@
 
 	/*lookbooks*/
 	.lookbook1 h1, .lookbook1 span{
-    font-size: 35px;
+		font-size: 35px;
 	}
 }
