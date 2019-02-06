@@ -1,5 +1,11 @@
 /*Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) { 
+	.header-top{
+		text-align: center;
+	}
+	.style-rightheader{
+		float: none;
+	}
 	/*banner-header*/
 	.cus-logo{
 		width: 85%;
@@ -63,8 +69,8 @@
 	}
 	.image-info .social {	
 		left: 0;
-    	bottom: 7%;
-   		right: 0;
+		bottom: 7%;
+		right: 0;
 	}
 
 	.image-info .social li a{
@@ -128,7 +134,11 @@
 		font-size: 22px;
 	}
 	.buttonadd button {
-		padding: 8px 21px;
+		padding: 2px 1px;
+		font-size: 13px;
+	}
+	.stars {
+		font-size: 15px;
 	}
 	/*localstore*/
 	.store-address {
@@ -148,9 +158,13 @@
 	}
 	.textrightfooter{
 		text-align: center;
+		font-size: 9px;
 	}
 	.award {
 		margin-bottom: 15px;
+	}
+	.forgot-text {
+		font-size: 13px;
 	}
 }
 
@@ -812,4 +826,6 @@
 	.lookbook1 h1, .lookbook1 span{
 		font-size: 35px;
 	}
+
+
 }
