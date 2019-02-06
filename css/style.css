@@ -39,6 +39,9 @@ header{
 .header-top p{
 	padding-top: 4px;
 }
+.style-rightheader{
+	float: right;
+	}
 
 .header-top ul li button{
 	background-color: #00c8c8!important;
