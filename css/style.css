@@ -41,7 +41,7 @@ header{
 }
 .style-rightheader{
 	float: right;
-	}
+}
 
 .header-top ul li button{
 	background-color: #00c8c8!important;
@@ -89,14 +89,14 @@ header{
 	padding: 0;
 	margin: 0;
 }
- .custom-nav .dropdown-menu-large > ul > li > ul > li {
+.custom-nav .dropdown-menu-large > ul > li > ul > li {
 	list-style: none;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	padding: 0 25px;
 
 }
- .custom-nav .dropdown-menu-large > ul > li > ul > li > a {
+.custom-nav .dropdown-menu-large > ul > li > ul > li > a {
 	display: block;
 	padding: 1px 0px;
 	clear: both;
@@ -244,9 +244,9 @@ header{
 	.p-all{
 		padding: 5px 0 5px 0;
 	}
-.h-50-image{
-	height: 50% !important;
-}
+	.h-50-image{
+		height: 50% !important;
+	}
 
 	.image-info{
 		text-align: center;
@@ -504,7 +504,7 @@ header{
 		}
 		.price p{
 			font-weight: 300;
-			font-size: 26px;
+			font-size: 22px;
 		}
 		.availability p{
 			font-weight: 500;
@@ -684,15 +684,17 @@ header{
 			background-color: #f8f8f8;
 		}
 		.award{
-			padding: 50px 30px;
+			padding: 48px 9px;
 			background-color: #333333;
 		}
 		.award h1{
+			font-size: 40px;
 			font-weight: 700;
 			color: white;
 			text-transform: uppercase;
 		}
 		.award h3{
+			font-size: 26px;
 			color: white;
 			font-weight: 500;
 			text-transform: uppercase;
